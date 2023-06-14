@@ -1,0 +1,25 @@
+{
+  "product": [
+    {
+      "ename": "Anirban Paul",
+      "post": "Web developer",
+      "gender": "male",
+      "salary": "60000",
+      "id": 2
+    },
+    {
+      "ename": "Madhur",
+      "post": "web designer",
+      "gender": "male",
+      "salary": "50000",
+      "id": 3
+    },
+    {
+      "ename": "Siri Apple",
+      "post": "Backend",
+      "gender": "female",
+      "salary": "70000",
+      "id": 4
+    }
+  ]
+}
